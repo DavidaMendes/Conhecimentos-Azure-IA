@@ -1,0 +1,4 @@
+Loja Exemplo Ltda
+CNPJ: 12.345.678/0001-99
+Produto: Fone de Ouvido
+Valor: R$ 89,90
